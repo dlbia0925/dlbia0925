@@ -10,5 +10,8 @@ My name is **M.C Han**, a **UI/UX designer, graphic designer**, with decades des
 
 I'm proficient in below:
 
-### Design
+### 🎨 Design
+- Photoshop, Illustrator, Premiere, After Effects, InDesign, Figma
 
+### 💻 Development
+- VSCode, HTML, CSS, JavaScript, Git, SourceTree

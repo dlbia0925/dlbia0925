@@ -14,4 +14,4 @@ I'm proficient in below:
 - Photoshop, Illustrator, Premiere, After Effects, InDesign, Figma
 
 ### 💻 Development
-- VSCode, HTML, CSS, JavaScript, Git, SourceTree
+- VSCode, HTML, CSS, JavaScript, WordPress, Git, SourceTree
